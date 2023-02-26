@@ -15,8 +15,8 @@ https://www.apachefriends.org/ru/index.html
 
 1. Download and install XAMPP (or anbopther local server)
 2. Configure Apache ports
-3. Install the "game" files in the xampp/htdocs directory
-4. Run the project by entering localhost:port/game in the browser
+3. Install the "project" files in the xampp/htdocs directory
+4. Run the project by entering localhost:port/danil_project in the browser
 
 ## Running the tests
 
